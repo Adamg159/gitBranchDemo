@@ -17,6 +17,6 @@ git checkout -b <branch>    # creates and checkout
 git checkout <branch>       # checkout target branch
 git status                  # Im lost, I need an adult
 git merge <targetbranch>    # merge target into current branch
-git tag -a -m               #make a take with annotation and msg
-git push origin <branch>    push to origin (--tags for tags)
+git tag -a -m               # make a take with annotation and msg
+git push origin <branch>    # push to origin (--tags for tags)
 ```
