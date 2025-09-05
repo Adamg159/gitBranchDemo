@@ -8,11 +8,13 @@ Standard Commit Process
 ## Commands
 
 ```
-git init                # Creates the repo
-git add <filename>      # Add to the stage
-git commit -m "msg"     # Commits with msg
-git log                 # list of commits
-git branch              # list of branches
-git checkout -b         # creates and checkout
-git status              # Im lost, I need an adult
+git init                    # Creates the repo
+git add <filename>          # Add to the stage
+git commit -m "msg"         # Commits with msg
+git log                     # list of commits
+git branch                  # list of branches
+git checkout -b <branch>    # creates and checkout
+git checkout <branch>       # checkout target branch
+git status                  # Im lost, I need an adult
+git merge <targetbranch>    # merge target into current branch
 ```
