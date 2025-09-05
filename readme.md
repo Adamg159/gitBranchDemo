@@ -1,5 +1,10 @@
 # Hello World
 
+# Workflows
+
+Standard Commit Process
+ edit file(s) -> add to stage -> commit
+
 ## Commands
 
 ```
